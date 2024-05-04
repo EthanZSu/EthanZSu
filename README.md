@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Ethan, an IT Professional.
+- <img src="[https://i.imgur.com/5aEE6em.png](https://i.imgur.com/qzl59oH.png)"80%" width="80%" alt="Disk Sanitization Steps"/>
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
