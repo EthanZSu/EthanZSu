@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/EthanZSu/EthanZSu/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/EthanZSu/EthanZSu/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Storage Account Resource within Azure](https://github.com/EthanZSu/EthanZSu/configure-ad) 
+  - [Storage Account Resource within Azure](https://github.com/EthanZSu/EthanZSu/azure-storage-account) 
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/EthanZSu/EthanZSu/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/EthanZSu/EthanZSu/azure-network-protocols)
 
