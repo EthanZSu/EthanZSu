@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Storage Account Resource within Azure](https://github.com/EthanZSu/azure-storage-account)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/EthanZSu/EthanZSu/configure-ad)
-  - [Network Security Groups and Observing Network Protocols](https://github.com/EthanZSu/EthanZSu/azure-network-protocols)
+  - [Network Security Groups and Observing Network Protocols](https://github.com/EthanZSu/EthanZSu-azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
