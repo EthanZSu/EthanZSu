@@ -10,7 +10,7 @@
   - [Storage Account Resource within Azure](https://github.com/EthanZSu/azure-storage-account)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/EthanZSu/EthanZSu/configure-ad)
   - [Network Security Groups and Observing Network Protocols](https://github.com/EthanZSu/EthanZSu-azure-network-protocols)
-  - [Virtual Private Networks and Observing IP Addresses](https://github.com/EthanZSu/vpn-&-ips)
+  - [Virtual Private Networks and Observing IP Addresses](https://github.com/EthanZSu/vpn-and-ips)
   -  
 <h2>🤳Connect with me:</h2>
 
