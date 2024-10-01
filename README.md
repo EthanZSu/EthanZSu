@@ -9,6 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Storage Account Resource within Azure](https://github.com/EthanZSu/azure-storage-account)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/EthanZSu/configure-ad)
+  - [DNS within Active Directory: A-records & CNAME records](https://github.com/EthanZSu/DNS)
   - [Network Security Groups and Observing Network Protocols](https://github.com/EthanZSu/EthanZSu-azure-network-protocols)
   - [Virtual Private Networks and Observing IP Addresses](https://github.com/EthanZSu/vpn-and-ips)
   -  
