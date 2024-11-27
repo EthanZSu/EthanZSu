@@ -12,7 +12,7 @@
   - [DNS within Active Directory: A-records & CNAME records](https://github.com/EthanZSu/DNS)
   - [Network Security Groups and Observing Network Protocols](https://github.com/EthanZSu/EthanZSu-azure-network-protocols)
   - [Virtual Private Networks and Observing IP Addresses](https://github.com/EthanZSu/vpn-and-ips)
-  - [Network File Shares and Permissions](https://github.com/EthanZSu/File-Shares)
+  - [Network File Shares and Permissions](https://github.com/EthanZSu/Network-File-Shares-Permissions)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
