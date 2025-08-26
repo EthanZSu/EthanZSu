@@ -2,10 +2,6 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/EthanZSu/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/EthanZSu/EthanZSu/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/EthanZSu/EthanZSu/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Storage Account Resource within Azure](https://github.com/EthanZSu/azure-storage-account)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/EthanZSu/configure-ad)
