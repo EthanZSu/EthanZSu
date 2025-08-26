@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Microsoft Azure</b>
+- <b>Microsoft Azure & Virtual Machines</b>
   - [DNS within Active Directory: A-records & CNAME records](https://github.com/EthanZSu/DNS)
   - [Network File Shares and Permissions](https://github.com/EthanZSu/Network-File-Shares-Permissions)
   - [Storage Account Resource within Azure](https://github.com/EthanZSu/azure-storage-account)
